@@ -1,0 +1,18 @@
+{
+  "productionMode" : false,
+  "eagerServerLoad" : false,
+  "npmFolder" : "C:\\Users\\jariz\\Documents\\GitHub\\LearningRepository_LabTeamProj_2\\complete",
+  "node.version" : "v24.13.1",
+  "node.download.root" : "https://nodejs.org/dist/",
+  "frontendFolder" : "C:\\Users\\jariz\\Documents\\GitHub\\LearningRepository_LabTeamProj_2\\complete\\.\\src\\main\\frontend",
+  "connect.javaSourceFolder" : "C:\\Users\\jariz\\Documents\\GitHub\\LearningRepository_LabTeamProj_2\\complete\\src\\main\\java",
+  "javaResourceFolder" : "C:\\Users\\jariz\\Documents\\GitHub\\LearningRepository_LabTeamProj_2\\complete\\src\\main\\resources",
+  "connect.applicationProperties" : "C:\\Users\\jariz\\Documents\\GitHub\\LearningRepository_LabTeamProj_2\\complete\\src\\main\\resources\\application.properties",
+  "connect.openApiFile" : "C:\\Users\\jariz\\Documents\\GitHub\\LearningRepository_LabTeamProj_2\\complete\\build\\generated-resources\\openapi.json",
+  "project.frontend.generated" : "C:\\Users\\jariz\\Documents\\GitHub\\LearningRepository_LabTeamProj_2\\complete\\.\\src\\main\\frontend\\generated",
+  "pnpm.enable" : false,
+  "bun.enable" : false,
+  "require.home.node" : false,
+  "build.folder" : "build",
+  "react.enable" : true
+}
